@@ -23,7 +23,6 @@
 - Apvienot interaktīvitāti un lietotāja pieredzi ar augstas kvalitātes vizuālo atainojumu, izmantojot 2D vai 3D modelēšanas tehnoloģijas.
 
 ## Tehnoloģijas:
-|       |           |
 | ----- | --------- |
 | Front-End| React.js, Three.js (3D renderēšanai), HTML5, CSS3, JavaScript |
 | Back-End | Node.js (Express), Python (Django/Flask), MongoDB vai PostgreSQL |
