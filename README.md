@@ -23,8 +23,7 @@
 - Apvienot interaktīvitāti un lietotāja pieredzi ar augstas kvalitātes vizuālo atainojumu, izmantojot 2D vai 3D modelēšanas tehnoloģijas.
 
 ## Tehnoloģijas:
-|       |           |
-| ----- | --------- |
+
 | Front-End| React.js, Three.js (3D renderēšanai), HTML5, CSS3, JavaScript |
 | Back-End | Node.js (Express), Python (Django/Flask), MongoDB vai PostgreSQL |
 | API | Google Maps API vai Leaflet.js kartes funkcionalitātei, FullCalendar.js pasākumu pārvaldīšanai |
@@ -39,4 +38,4 @@ Projekta izstrāde fokusējas uz lietotāju ērtību, intuitīvu dizainu un tehn
 
 
 
-#### > Note: `Informācija tika ņemta ar mākslīgās intelektuālās palīdzību. Ja kādam ir labāka ideja kā realizēt manu projektu vai ieteikums ko mainīt, tad padodied droši man ziņu.`
+#### > Note: `Informācija tika iegūta ar mākslīgā intelekta palīdzību. Ja kādam ir labāka ideja, kā realizēt manu projektu, vai ieteikums, ko mainīt, droši dodiet man ziņu.`
