@@ -24,8 +24,19 @@
 
 ## Tehnoloģijas:
 |       |           |
+| ----- | --------- |
 | Front-End| React.js, Three.js (3D renderēšanai), HTML5, CSS3, JavaScript |
 | Back-End | Node.js (Express), Python (Django/Flask), MongoDB vai PostgreSQL |
 | API | Google Maps API vai Leaflet.js kartes funkcionalitātei, FullCalendar.js pasākumu pārvaldīšanai |
 | CMS | Strapi vai Sanity.io satura pārvaldīšanai |
-| Autentifikācija | JWT (JSON Web Tokens)
+| Autentifikācija | JWT (JSON Web Tokens) lietotāju sesiju pārvaldīšanai |
+
+### Mērķauditorija:
+
+Velosipēdu entuziasti, BMX un MTB sportisti, hobiju braucēji un ikviens, kurš meklē interaktīvu rīku, lai izveidotu un pielāgotu savu velosipēdu vai vēlas atrast tuvumā esošas trases un pasākumus.
+
+Projekta izstrāde fokusējas uz lietotāju ērtību, intuitīvu dizainu un tehnoloģiskajiem risinājumiem, kas veicinās lietotāju iesaisti un nodrošinās precīzu un aktuālu informāciju.
+
+
+
+#### > Note: `Informācija tika ņemta ar mākslīgās intelektuālās palīdzību. Ja kādam ir labāka ideja kā realizēt manu projektu vai ieteikums ko mainīt, tad padodied droši man ziņu.`
