@@ -1,4 +1,4 @@
-# FINAL PROJECT
+# FINAL SCHOOL PROJECT
 ## BMX Konfigurātors un MTB/BMX Trases Pasākumu Skatītājs
 
 ### Projektu apraksts:
