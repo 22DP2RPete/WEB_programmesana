@@ -39,4 +39,4 @@ Projekta izstrāde fokusējas uz lietotāju ērtību, intuitīvu dizainu un tehn
 
 
 
-> Note: `Informācija tika iegūta ar mākslīgā intelekta palīdzību. Ja kādam ir labāka ideja, kā realizēt manu projektu, vai ieteikums, ko mainīt, droši dodiet man ziņu.`
+> Note: `Ja kādam ir labāka ideja, kā realizēt manu projektu, vai ieteikums, ko mainīt, droši dodiet man ziņu.`
